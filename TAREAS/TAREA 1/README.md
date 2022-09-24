@@ -1,2 +1,2 @@
-# Base de datos
-Repositorio dedicado a la asignatura BBDD
+# Diagramas E/R
+
