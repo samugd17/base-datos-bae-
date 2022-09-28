@@ -1,2 +1,3 @@
 # Base de datos
-Repositorio dedicado a la asignatura BBDD
+Carpeta dedicada a las tareas de la materia.
+[Tarea1](Tarea1/README.md).
