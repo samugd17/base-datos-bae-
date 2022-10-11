@@ -10,3 +10,33 @@ Se pide:
 - Monta correctamente todas las entidades y sus relaciones.
 - Colocar los atributos a cada entidad e interrelación.
 - Indica la cardinalidad de las relaciones.
+
+<details>
+      <summary>PASO 1</summary>
+      
+</details>
+
+<details>
+      <summary>PASO 2</summary>
+      
+</details>
+
+<details>
+      <summary>PASO 3</summary>
+      
+</details>
+
+<details>
+      <summary>PASO 4</summary>
+      
+</details>
+
+<details>
+      <summary>PASO 5</summary>
+      
+</details>
+
+<details>
+      <summary>PASO 6</summary>
+      
+</details>
