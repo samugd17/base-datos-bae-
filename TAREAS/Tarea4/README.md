@@ -37,11 +37,13 @@ Se pide:
 
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
+ 
+- En esta base de datos, queremos conocer los actores que interpretan a cada personaje, los cuales serán clasificados según su raza (Humano, Vulcano y Klingon) junto a sus respectivas características.
       
-  </br>
-  
-
-  
+- Además, tendremos en cuenta las apariciones de estos en la filmografía de Star Trek, desde las películas hasta los capítulos de la serie.
+      
+- Dentro de estos capítulos, clasificaremos los planetas visitados en las diferentes naves, que también serán organizadas teniendo en cuenta si disponen de una lanzadera o no.
+        
   </br>
   
 </details>
@@ -49,7 +51,7 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 3:</summary>
       
-  </br>
+  <br>
   
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea4/IMG/ER.StarTrek-PASO%203.drawio.png">
   
