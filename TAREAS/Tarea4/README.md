@@ -20,10 +20,9 @@ nacimiento y ciudad terráquea donde nació, si el personaje es de la raza Vulca
 Se pide:
 1. Identifica las posibles **entidades y las relaciones**.
 2. Proponer las frases que describan el problema.
-3. Generar los entidades y relaciones de cada frase que hayas detectado, sin indicar cardinalidad, etc.
-4. Monta correctamente todas las entidades y sus relaciones.
-5. Colocar los atributos a cada entidad e interrelación.
-6. Indica la cardinalidad de las relaciones.
+3. Genera y monta los entidades y relaciones de cada frase que hayas detectado, sin indicar cardinalidad, etc.
+4. Colocar los atributos a cada entidad e interrelación.
+5. Indica la cardinalidad de las relaciones.
 
 <details>
       <summary>RESOLUCIÓN PASO 1:</summary>
@@ -53,6 +52,28 @@ Se pide:
   </br>
   
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea4/IMG/ER.StarTrek-PASO%203.drawio.png">
+  
+  </br>
+  
+</details>
+
+<details>
+      <summary>RESOLUCIÓN PASO 4:</summary>
+      
+  </br>
+  
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea4/IMG/ER.StarTrek-PASO%204.drawio.png">
+  
+  </br>
+  
+</details>
+
+<details>
+      <summary>RESOLUCIÓN PASO 5:</summary>
+      
+  </br>
+  
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea4/IMG/ER.StarTrek-PASO%201.drawio.png">
   
   </br>
   
