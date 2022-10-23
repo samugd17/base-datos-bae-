@@ -73,7 +73,7 @@ Se pide:
       
   </br>
   
-  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea4/IMG/ER.StarTrek-PASO%201.drawio.png">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea4/IMG/ER.StarTrek-PASO%205.drawio.png">
   
   </br>
   
