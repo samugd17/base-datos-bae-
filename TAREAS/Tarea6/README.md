@@ -37,6 +37,12 @@ Se pide:
 
   <summary>SOLUCIÓN PASO 2</summary>
   
+  <br>
+  
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea6/IMG/ER.n%C2%BA12.Tarea6.Gesti%C3%B3n%20docente-PASO2.drawio.png">
+  
+  <br>
+  
   
 </details>
 
@@ -45,7 +51,11 @@ Se pide:
 
   <summary>SOLUCIÓN PASO 3</summary>
   
-   <br>
+  <br>
+  
+  <img src="">
+  
+  <br>
   
 </details>
 
@@ -53,17 +63,35 @@ Se pide:
 
   <summary>SOLUCIÓN PASO 4</summary>
   
+   <br>
+  
+   <img src="">
+  
+   <br>
+  
 </details>
 
 <details>
 
   <summary>SOLUCIÓN PASO 5</summary>
   
+   <br>
+  
+   <img src="">
+  
+   <br>
+  
 </details>
 
 <details>
 
   <summary>SOLUCIÓN PASO 6</summary>
+  
+   <br>
+  
+   <img src="">
+  
+   <br>
   
 </details>
 
