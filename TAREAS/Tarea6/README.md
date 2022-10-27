@@ -18,10 +18,9 @@ Se pide:
 
 - 1.- Proponer las frases que describan el problema.
 - 2.- Identifica las posibles entidades, relaciones, valores de domino,etc.
-- 3.- Generar los entidades y relaciones de cada frase que hayas detectado, sin indicar cardinalidad, etc.
-- 4.- Monta correctamente todas las entidades y sus relaciones.
-- 5.- Colocar los atributos a cada entidad e interrelación.
-- 6.- Indica la cardinalidad de las relaciones, y explicar aquellas que se requieran necesarias.
+- 3.- Monta correctamente todas las entidades y sus relaciones.
+- 4.- Colocar los atributos a cada entidad e interrelación.
+- 5.- Indica la cardinalidad de las relaciones, y explicar aquellas que se requieran necesarias.
 
 <br>
 
@@ -74,18 +73,6 @@ Se pide:
 <details>
 
   <summary>SOLUCIÓN PASO 5</summary>
-  
-   <br>
-  
-   <img src="">
-  
-   <br>
-  
-</details>
-
-<details>
-
-  <summary>SOLUCIÓN PASO 6</summary>
   
    <br>
   
