@@ -27,6 +27,12 @@ Se pide:
 <details>
 
   <summary>SOLUCIÓN PASO 1</summary>
+
+- Deseamos conocer en cuantos grupos se dividen los diferentes cursos y el número de asignaturas que son impartidas en ellos. Además, querremos comprobar donde se ubica el aula fija de cada grupo.  
+  
+- El número de profesores que tiene cada curso y cada grupo y de que tipo son (coordinador o tutor), además de cuantas asignaturas imparten.
+  
+- Por último, tendremos en cuenta el número de alumnos asignados a cada grupo y cuantos están matriculados en cada curso. Cada grupo de alumnos tendrá asignado un delegado.
   
   
 </details>
