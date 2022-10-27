@@ -23,6 +23,50 @@ Se pide:
 - 5.- Colocar los atributos a cada entidad e interrelación.
 - 6.- Indica la cardinalidad de las relaciones, y explicar aquellas que se requieran necesarias.
 
+<br>
+
+<details>
+
+  <summary>SOLUCIÓN PASO 1</summary>
+  
+  
+</details>
+
+
+<details>
+
+  <summary>SOLUCIÓN PASO 2</summary>
+  
+  
+</details>
+
+
+<details>
+
+  <summary>SOLUCIÓN PASO 3</summary>
+  
+   <br>
+  
+</details>
+
+<details>
+
+  <summary>SOLUCIÓN PASO 4</summary>
+  
+</details>
+
+<details>
+
+  <summary>SOLUCIÓN PASO 5</summary>
+  
+</details>
+
+<details>
+
+  <summary>SOLUCIÓN PASO 6</summary>
+  
+</details>
+
 
 </div>
 
