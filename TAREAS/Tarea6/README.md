@@ -1,6 +1,10 @@
-<div aling= "justify">
+<div align= "justify">
 
-# TAREA 6: ER Gestión Docente
+# TAREA 6: ER Gestión Docente.
+  
+<div align="center">
+<img src="https://github.com/jpexposito/base-datos/raw/main/ER/tareas/tarea12/img/docente.png" width ="600px" heigh="600px"/>
+</div>
 
 ### Diseñar una Base de Datos para representar la información docente de un colegio, sabiendo que:  
 
@@ -16,11 +20,11 @@
   
 Se pide:
 
-- 1.- Proponer las frases que describan el problema.
-- 2.- Identifica las posibles entidades, relaciones, valores de domino,etc.
-- 3.- Monta correctamente todas las entidades y sus relaciones.
-- 4.- Colocar los atributos a cada entidad e interrelación.
-- 5.- Indica la cardinalidad de las relaciones, y explicar aquellas que se requieran necesarias.
+1. Proponer las frases que describan el problema.
+2. Identifica las posibles entidades, relaciones, valores de domino,etc.
+3. Monta correctamente todas las entidades y sus relaciones.
+4. Colocar los atributos a cada entidad e interrelación.
+5. Indica la cardinalidad de las relaciones, y explicar aquellas que se requieran necesarias.
 
 <br>
 
@@ -87,7 +91,5 @@ Se pide:
    <br>
   
 </details>
-
-
 </div>
 
