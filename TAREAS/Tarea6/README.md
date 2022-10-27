@@ -64,7 +64,7 @@ Se pide:
   
    <br>
   
-   <img src="">
+   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea6/IMG/ER.n%C2%BA12.Tarea6.Gesti%C3%B3n%20docente-PASO4.drawio.png">
   
    <br>
   
