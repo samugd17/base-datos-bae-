@@ -208,31 +208,31 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
         <details>
           <summary>PASO 1</summary>
             </br>
-              <img src="">
+              <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA6.PASO1.drawio.png">
             </br>
         </details>
         <details>
         <summary>PASO 2</summary>
           </br>
-            
+            Deseamos conocer el número de departamentos y empleados asignado a cada uno de ellos. Además, tendremos en cuenta a los diferentes jefes de los empleados.
           </br>
         </details>
         <details>
         <summary>PASO 3</summary>
           </br>
-            <img src="">
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA6.PASO3.drawio.png">
           </br>
         </details>
         <details>
         <summary>PASO 4</summary>
           </br>
-             Aquí nos saltamos el paso 4 al no haber atributos que asignar a nuestras entidades y relaciones.
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA6.PASO4.drawio.png">
           </br>
         </details>
         <details>
         <summary>PASO 5</summary>
           </br>
-            <img src="">
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA6.PASO5.drawio.png">
           </br>
         </details>
 
