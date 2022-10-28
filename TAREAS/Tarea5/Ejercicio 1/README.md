@@ -130,7 +130,7 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
         <details>
           <summary>PASO 1</summary>
             </br>
-              <img src="">
+              <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA4.PASO1.drawio.png">
             </br>
         </details>
         <details>
@@ -142,7 +142,7 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
         <details>
         <summary>PASO 3</summary>
           </br>
-            <img src="">
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA4.PASO3.drawio.png">
           </br>
         </details>
         <details>
@@ -154,7 +154,7 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
         <details>
         <summary>PASO 5</summary>
           </br>
-            <img src="">
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA4.PASO5.drawio.png">
           </br>
         </details>
 
