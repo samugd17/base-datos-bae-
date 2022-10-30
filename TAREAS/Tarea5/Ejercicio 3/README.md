@@ -66,7 +66,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO4.drawio.png">
   
   </br>
   
@@ -77,7 +77,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO5.drawio.png">
   
   </br>
   
