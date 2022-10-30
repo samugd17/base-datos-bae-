@@ -30,7 +30,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%202/IMG/ER.n%C2%BA2.PASO1.drawio.png">
   
   </br>
   
@@ -54,7 +54,7 @@ Se pide:
       
   <br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%202/IMG/ER.n%C2%BA2.PASO3.drawio.png">
   
   </br>
   
@@ -65,7 +65,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%202/IMG/ER.n%C2%BA2.PASO4.drawio.png">
   
   </br>
   
@@ -76,7 +76,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%202/IMG/ER.n%C2%BA2.PASO5.drawio.png">
   
   </br>
   
