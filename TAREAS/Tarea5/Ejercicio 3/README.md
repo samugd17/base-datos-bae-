@@ -35,7 +35,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO1.drawio.png">
   
   </br>
   
@@ -44,7 +44,9 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
  
-- 
+- Deseamos conocer cuantos artículos pueden ser fabricados en una fábrica.
+- De estos artículos, cuantos pueden ser incluidos en un pedido. 
+- El número de pedidos que puede hacer un cliente.
         
   </br>
   
@@ -55,7 +57,7 @@ Se pide:
       
   <br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO3.drawio.png">
   
   </br>
   
