@@ -39,11 +39,10 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
  
-- En esta base de datos, queremos conocer los actores que interpretan a cada personaje, los cuales serán clasificados según su raza (Humano, Vulcano y Klingon) junto a sus respectivas características.
-      
-- Además, tendremos en cuenta las apariciones de estos en la filmografía de Star Trek, desde las películas hasta los capítulos de la serie.
-      
-- Dentro de estos capítulos, clasificaremos los planetas visitados en las diferentes naves, que también serán organizadas teniendo en cuenta si disponen de una lanzadera o no.
+- Deseamos conocer el número de productos que un proveedor puede suministrar.
+- Saber las diferentes categorías en las que se puede clasificar un producto.
+- Conocer los detalles de la venta de cada producto.
+- Cuantificar cuantas compra puede hacer un cliente.
         
   </br>
   
