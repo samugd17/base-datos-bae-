@@ -23,7 +23,7 @@ Se pide:
       
   </br>
   
-  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO1.drawio.png">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%204/IMG/ER.n%C2%BA4.PASO1.drawio.png">
   
   </br>
   
@@ -32,9 +32,8 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
  
-- Deseamos conocer cuantos artículos pueden ser fabricados en una fábrica.
-- De estos artículos, cuantos pueden ser incluidos en un pedido. 
-- El número de pedidos que puede hacer un cliente.
+- Deseamos conocer el número de paquetes que puede distribuir un camionero.
+- El número de camiones que puede conducir un camionero.
         
   </br>
   
@@ -45,7 +44,7 @@ Se pide:
       
   <br>
   
-  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO3.drawio.png">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%204/IMG/ER.n%C2%BA4.PASO3.drawio.png">
   
   </br>
   
@@ -56,7 +55,7 @@ Se pide:
       
   </br>
   
-  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO4.drawio.png">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%204/IMG/ER.n%C2%BA4.PASO4.drawio.png">
   
   </br>
   
@@ -67,7 +66,7 @@ Se pide:
       
   </br>
   
-  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO5.drawio.png">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%204/IMG/ER.n%C2%BA4.PASO5.drawio.png">
   
   </br>
   
