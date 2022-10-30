@@ -307,7 +307,7 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
         <details>
         <summary>PASO 5</summary>
           </br>
-            <img src="">
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA8.PASO5.drawio.png">
           </br>
         </details>
 
@@ -321,31 +321,31 @@ Representa las entidades, relaciones y cardinalidades mínimas y máximas para c
         <details>
           <summary>PASO 1</summary>
             </br>
-              <img src="">
+              <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA9.PASO1.drawio.png">
             </br>
         </details>
         <details>
         <summary>PASO 2</summary>
           </br>
-            
+            Deseamos conocer el número de alumnos que pueden estar matriculados en una asignatura y cuantas de estas asignaturas pertenecen a las diferentes carreras.
           </br>
         </details>
         <details>
         <summary>PASO 3</summary>
           </br>
-            <img src="">
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA9.PASO3.drawio.png">
           </br>
         </details>
         <details>
         <summary>PASO 4</summary>
           </br>
-             Aquí nos saltamos el paso 4 al no haber atributos que asignar a nuestras entidades y relaciones.
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA9.PASO4.drawio.png">
           </br>
         </details>
         <details>
         <summary>PASO 5</summary>
           </br>
-            <img src="">
+            <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%201/IMG/ER.n%C2%BA9.PASO5.drawio.png">
           </br>
         </details>
 
