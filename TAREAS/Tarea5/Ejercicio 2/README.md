@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Ejercicio ER nº2: Sistema de ventas
+# Ejercicio ER Nº2: Sistema de ventas
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/ER/tareas/tarea2/img/sistema-ventas.png" width="400px"/>
