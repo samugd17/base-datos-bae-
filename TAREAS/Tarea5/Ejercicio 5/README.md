@@ -25,7 +25,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%205/IMG/ER.n%C2%BA5.PASO1.drawio.png">
   
   </br>
   
@@ -34,7 +34,9 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
  
-- 
+- Se desea conocer el número de módulos que pueden ser impartidos por los diferentes profesores.
+- Cuantos alumnos hay matriculados en cada módulo.
+- Dentro de esos alumnos, quien es el delegado.
         
   </br>
   
@@ -45,7 +47,7 @@ Se pide:
       
   <br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%205/IMG/ER.n%C2%BA5.PASO3.drawio.png">
   
   </br>
   
@@ -56,7 +58,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%205/IMG/ER.n%C2%BA5.PASO4.drawio.png">
   
   </br>
   
@@ -67,7 +69,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%205/IMG/ER.n%C2%BA5.PASO5.drawio.png">
   
   </br>
   
