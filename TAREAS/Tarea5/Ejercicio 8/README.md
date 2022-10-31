@@ -30,7 +30,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%208/IMG/ER.n%C2%BA8.PASO1.drawio.png">
   
   </br>
   
@@ -39,7 +39,7 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
  
-- 
+- Se desea conocer el número de aulas de un instituto de enseñanza secundaria estando estas divididos entre aulas comunes, de ordenadores y laboratorios.
         
   </br>
   
@@ -50,7 +50,7 @@ Se pide:
       
   <br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%208/IMG/ER.n%C2%BA8.PASO3.drawio.png">
   
   </br>
   
@@ -61,7 +61,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%208/IMG/ER.n%C2%BA8.PASO4.drawio.png">
   
   </br>
   
@@ -72,7 +72,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%208/IMG/ER.n%C2%BA8.PASO5.drawio.png">
   
   </br>
   
