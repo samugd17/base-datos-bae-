@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Profesorado
+# Ejercicio ER Nº5: Profesorado
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/ER/tareas/tarea5/img/profesor.png"/>
