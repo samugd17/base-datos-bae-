@@ -22,7 +22,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%206/IMG/ER.n%C2%BA6.Paso1.drawio.png">
   
   </br>
   
@@ -31,13 +31,7 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
  
-- 
-
-- 
-      
-- 
-      
-- 
+- Se desea conocer el número de revisiones que pueden pasar diferentes coches y el número de veces que son comprados por los clientes. 
         
   </br>
   
@@ -48,7 +42,7 @@ Se pide:
       
   <br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%206/IMG/ER.n%C2%BA6.Paso3.drawio.png">
   
   </br>
   
@@ -59,7 +53,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%206/IMG/ER.n%C2%BA6.Paso4.drawio.png">
   
   </br>
   
@@ -70,7 +64,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%206/IMG/ER.n%C2%BA6.Paso5.drawio.png">
   
   </br>
   
