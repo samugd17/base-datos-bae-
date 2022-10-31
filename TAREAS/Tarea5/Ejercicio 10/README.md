@@ -1,6 +1,6 @@
 <div align ="justify">
 
-# Tarea 4: E/R Star Trek.
+# Ejercicio ER. Nº10: Star Trek.
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/blob/main/ER/tareas/tarea10/img/star-trek.png" width="400px"/>
