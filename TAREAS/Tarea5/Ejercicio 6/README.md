@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Ejercicio ER Nº6: Sistema Gestión de ventas de Automóviles
+# Ejercicio ER Nº6: Sistema Gestión de ventas de Automóviles.
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/ER/tareas/tarea6/img/venta-coche.png" width="400px"/>
