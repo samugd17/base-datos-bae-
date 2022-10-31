@@ -25,7 +25,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%207/IMG/ER.n%C2%BA7.PASO1.drawio.png">
   
   </br>
   
@@ -34,7 +34,7 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
  
--  
+-  Se desea conocer el número de empleados de un centro de enseñanza tecnológica estando estos divididos entre profesores, administrativos y personal de mantenimiento. 
         
   </br>
   
@@ -45,7 +45,7 @@ Se pide:
       
   <br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%207/IMG/ER.n%C2%BA7.PASO3.drawio.png">
   
   </br>
   
@@ -56,7 +56,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%207/IMG/ER.n%C2%BA7.PASO4.drawio.png">
   
   </br>
   
@@ -67,7 +67,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%207/IMG/ER.n%C2%BA7.PASO5.drawio.png">
   
   </br>
   
