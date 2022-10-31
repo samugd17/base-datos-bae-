@@ -38,11 +38,9 @@ Se pide:
 
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
- 
+ </br>
 - Se desea conocer el número de aulas de un instituto de enseñanza secundaria estando estas divididos entre aulas comunes, de ordenadores y laboratorios.
-        
-  </br>
-  
+ </br>
 </details>
 
 <details>
