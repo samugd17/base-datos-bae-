@@ -33,10 +33,9 @@ Se pide:
 
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
+      </br>
  
 -  Se desea conocer el número de empleados de un centro de enseñanza tecnológica estando estos divididos entre profesores, administrativos y personal de mantenimiento. 
-        
-  </br>
   
 </details>
 
