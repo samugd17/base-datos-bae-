@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Ejercicio ER.Nº11: Empresa Discográfica
+# Ejercicio ER Nº11: Empresa Discográfica
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/ER/tareas/tarea11/img/discografica.png" width="400px"/>
