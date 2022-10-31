@@ -29,7 +29,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%2011/IMG/ER.n%C2%BA11.PASO1.drawio.png">
   
   </br>
   
@@ -38,8 +38,14 @@ Se pide:
 <details>
       <summary>RESOLUCIÓN PASO 2:</summary>
  </br>
-- 
+ 
+- Deseamos conocer el número de canciones que pueden componer diferentes músicos y cuantas de éstas pertenecen a un álbum.
+- Estos álbumes, sólo pueden ser grabados por grupos, de los cuales forman parte los músicos.
+- Además, se desea saber cuantos músicos son capaces de tocar un instrumento.
+
+
  </br>
+ 
 </details>
 
 <details>
@@ -47,7 +53,7 @@ Se pide:
       
   <br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%2011/IMG/ER.n%C2%BA11.PASO3.drawio.png">
   
   </br>
   
@@ -58,7 +64,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%2011/IMG/ER.n%C2%BA11.PASO4.drawio.png">
   
   </br>
   
@@ -69,7 +75,7 @@ Se pide:
       
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%2011/IMG/ER.n%C2%BA11.PASO5.drawio.png">
   
   </br>
   
