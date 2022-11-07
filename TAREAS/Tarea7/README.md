@@ -43,6 +43,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
     </br>
 
   </details>
+  
 - 4.- Representa la relación entre Personas y sus padres.
 
     <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA4.drawio.png">
@@ -64,7 +65,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   <details>
       <summary>MODELO MR</summary>
   </br>
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea7/IMG/MR5.drawio.png">
   </br>
 
 </details>
@@ -79,7 +80,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
     <details>
           <summary>MODELO MR</summary>
       </br>
-      <img src="">
+      <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea7/IMG/MR6.drawio.png">
       </br>
 
     </details>
@@ -92,7 +93,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   <details>
         <summary>MODELO MR</summary>
     </br>
-    <img src="">
+    <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea7/IMG/MR7.drawio.png">
     </br>
 
   </details>
