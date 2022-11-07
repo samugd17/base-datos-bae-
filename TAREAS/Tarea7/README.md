@@ -9,11 +9,13 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
     </br>
     <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA1.drawio.png">
     </br>
+    </br>
     
   <details>
         <summary>MODELO MR</summary>
     </br>
     <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea7/IMG/MR1.drawio.png">
+    </br>
     </br>
 
   </details>     
@@ -23,6 +25,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
 
   </br>
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA2.drawio.png">
+  </br>
   </br>
 
   <details>
@@ -38,6 +41,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   </br>
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA3.drawio.png">
   </br>
+  </br>
 
   <details>
         <summary>MODELO MR</summary>
@@ -48,8 +52,10 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   </details>
   
 - 4.- Representa la relación entre Personas y sus padres.
+
     </br>
     <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA4.drawio.png">
+    </br>
     </br>
 
   <details>
@@ -64,6 +70,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
 
   </br>
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA5.drawio.png">
+  </br>
   </br>
   
   <details>
@@ -81,6 +88,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   </br>
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA6.drawio.png">
   </br>
+  </br>
 
     <details>
           <summary>MODELO MR</summary>
@@ -94,6 +102,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
 
   </br>
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA7.drawio.png">
+  </br>
   </br>
 
   <details>
@@ -109,6 +118,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
     </br>
     <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA8.drawio.png">
     </br>
+    </br>
 
   <details>
         <summary>MODELO MR</summary>
@@ -122,6 +132,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
 
     </br>
     <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea2/IM%C3%81GENES/E_R-E_R%20N%C2%BA9.drawio.png">
+    </br>
     </br>
 
   <details>
