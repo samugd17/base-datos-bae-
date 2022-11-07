@@ -12,7 +12,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   <details>
         <summary>MODELO MR</summary>
     </br>
-    <img src="">
+    <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea7/IMG/MR1.drawio.png">
     </br>
 
   </details>     
