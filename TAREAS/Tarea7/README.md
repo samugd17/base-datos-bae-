@@ -26,7 +26,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   <details>
       <summary>MODELO MR</summary>
   </br>
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea7/IMG/MR2.drawio.png">
   </br>
 
   </details>
@@ -39,7 +39,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   <details>
         <summary>MODELO MR</summary>
     </br>
-    <img src="">
+    <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea7/IMG/MR3.drawio.png">
     </br>
 
   </details>
@@ -51,7 +51,7 @@ Representa las modelos relacionales de cada uno los siguientes supuestos:
   <details>
         <summary>MODELO MR</summary>
     </br>
-    <img src="">
+    <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea7/IMG/MR4.drawio.png">
     </br>
 
   </details>
