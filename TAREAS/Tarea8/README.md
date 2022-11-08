@@ -25,7 +25,7 @@ Se desea realizar una BD que permita apoyar la gestión de un sistema de ventas.
 
   __Paso 2__:
   </br>
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea8/IMG/EjercicioB%C3%A1sicoMR2.(Sistema_de_ventas).drawio.png">
   </br>
   
 </details>
