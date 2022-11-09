@@ -22,7 +22,7 @@ __Nota__: Una dirección se entenderá como Nº, Calle, Ciudad y Provincia . Una
 
   </br>
   
-  <img src="https://github.com/jpexposito/base-datos/raw/main/MR/tareas/tarea3/img/articulos-encargo-solucion-2.drawio.png">
+  <img src="https://github.com/jpexposito/base-datos/raw/main/MR/tareas/tarea3/img/articulos-encargo-solucion-1.drawio.png">
   
   </br>
 
