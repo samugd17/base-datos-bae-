@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Ejercicio Basico Nº3: Sistema de Artículos - Encargos
+# Ejercicio Básico Nº3: Sistema de Artículos - Encargos
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/ER/tareas/tarea3/img/articulos-proveedores.png" width="400px"/>
@@ -25,5 +25,14 @@ __Nota__: Una dirección se entenderá como Nº, Calle, Ciudad y Provincia . Una
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea5/Ejercicio%203/IMG/ER.n%C2%BA3.PASO5.drawio.png">
   
   </br>
+
+<details>
+    <summary>Modelo MR</summary>
+  </br>
+  
+  <img src="">
+  
+  </br>
+</details>
 
 </div>
