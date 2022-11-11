@@ -33,7 +33,7 @@ _**Se solicita**: A partir del modelo entidad-relación, establece el modelo rel
 </details>
 
 <details>
-<summary>MODELO MR</summary>
+<summary>MODELO RELACIONAL</summary>
   </br>
   
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea9/Ejercicio3/IMG/MR.N%C2%BA3.drawio.png">
