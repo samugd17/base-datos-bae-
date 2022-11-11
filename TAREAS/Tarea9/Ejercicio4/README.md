@@ -10,24 +10,25 @@ A partir del siguiente enunciado se desea realizar el modelo __entidad-relación
 
 _**Se solicita**: A partir del modelo entidad-relación, establece el modelo relacional._
 
-</br>
-
-- MODELO ENTIDAD-RELACIÓN
+<details>
+<summary>MODELO ENTIDAD-RELACIÓN</summary>
    
   </br>
   
   <img src="https://github.com/jpexposito/base-datos/raw/main/MR/tareas/tarea4/img/camioneros-paso-3.drawio.png">
 
   </br>
-  </br>
+</details>
 
-- MODELO RELACIONAL
+<details>
+<summary>MODELO RELACIONAL</summary>
 
   </br>
   
   <img src="">
 
   </br>
+</details>
 
 
 
