@@ -33,5 +33,4 @@ _**Se solicita**: A partir del modelo entidad-relación, establece el modelo rel
   </br>
 </details>
 
-
 </div>
