@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Ejercicio Básico Nº3: Sistema de Artículos - Encargos
+# Modelo MR nº3: Sistema de Artículos - Encargos
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/ER/tareas/tarea3/img/articulos-proveedores.png" width="400px"/>
@@ -20,19 +20,26 @@ uso de distribuidores, se usará: Número de la fábrica (único) y Teléfono de
 
 __Nota__: Una dirección se entenderá como Nº, Calle, Ciudad y Provincia . Una fecha incluye hora.
 
+_**Se solicita**: A partir del modelo entidad-relación, establece el modelo relacional._
+
+<details>
+<summary>MODELO ENTIDAD-RELACIÓN</summary>
+
   </br>
   
   <img src="https://github.com/jpexposito/base-datos/raw/main/MR/tareas/tarea3/img/articulos-encargo-solucion-1.drawio.png">
   
   </br>
+</details>
 
 <details>
-    <summary>Modelo MR</summary>
+<summary>MODELO MR</summary>
   </br>
   
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea9/Ejercicio3/IMG/MR.N%C2%BA3.drawio.png">
   
   </br>
 </details>
+
 
 </div>
