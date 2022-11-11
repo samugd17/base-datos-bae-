@@ -24,3 +24,10 @@ _**Se solicita**: A partir del modelo entidad-relación, establece el modelo rel
 <details>
       <summary>MODELO RELACIONAL</summary>   
   </br>
+  
+  <img src="">
+  
+  </br>
+  
+</div>
+  
