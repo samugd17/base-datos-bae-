@@ -28,7 +28,7 @@ _**Se solicita**: A partir del modelo entidad-relación, establece el modelo rel
 
   </br>
   
-  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea9/Ejercicio6/IMG/MR.N%C2%BA6.drawio.png">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea9/Ejercicio6/IMG/MRN%C2%BA6.drawio.png">
 
   </br>
 </details>
