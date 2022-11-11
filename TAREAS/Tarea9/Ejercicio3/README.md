@@ -30,7 +30,7 @@ __Nota__: Una dirección se entenderá como Nº, Calle, Ciudad y Provincia . Una
     <summary>Modelo MR</summary>
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea9/Ejercicio3/IMG/MR.N%C2%BA3.drawio.png">
   
   </br>
 </details>
