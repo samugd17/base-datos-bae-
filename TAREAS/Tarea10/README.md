@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Gestión Docente
+# Modelo MR nº12: Gestión Docente
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/ER/tareas/tarea12/img/docente.png" width="400px"/>
@@ -28,7 +28,7 @@ _**Se solicita**: A partir del modelo entidad-relación, establece el modelo rel
 <summary>MODELO RELACIONAL</summary>
   </br>
   
-  <img src="">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea10/IMG/MR.N%C2%BA12.(Gesti%C3%B3n%20docente).drawio.png">
   
   </br>
 </details>
