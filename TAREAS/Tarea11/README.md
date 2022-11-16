@@ -45,31 +45,15 @@ Se pide:
 1. Transforma el digagrama que se aporta en sub-diagramas más simples.
 2. Realiza la tranformación de cada uno de ellos.
 3. Une todas las transformaciones en una resultante.
-
-<!-- 
+ 
 <details>
-      <summary>Paso 1</summary>
+      <summary>SOLUCIÓN</summary>
   </br>
-  <img src="img/paso1.png">
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea11/IMG/MR13.drawio.png">
   </br>
-   </br>
+
 </details>
 
-<details>
-      <summary>Paso 2</summary>
-  </br>
-  <img src="img/paso1.png">
-  </br>
-   </br>
-</details>
 
-<details>
-      <summary>Paso 3</summary>
-  </br>
-  <img src="img/paso1.png">
-  </br>
-   </br>
-</details>
--->
 
 </div>
