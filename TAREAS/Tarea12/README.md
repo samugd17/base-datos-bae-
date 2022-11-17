@@ -35,13 +35,13 @@ Se pide:
   </br>
 
 
-  1. Las claves candidatas son:
+  1. Claves candidatas:
   - __Ciudad, CodAeropuerto__.
   - __Ciudad, NombreAeropuerto__.
  
  <br/>
   
-  2. No cumple la 1 forma normal dado que tiene __valores multivaluados__. Los campos __CodAeropuerto, NombreAeropuerto y distancia_km__ no son atómicos.
+  2. No cumple la primera forma normal dado que tiene valores multivaluados. Los campos **CodAeropuerto, NombreAeropuerto y distancia_km** no son atómicos.
  
   <br/>
   
