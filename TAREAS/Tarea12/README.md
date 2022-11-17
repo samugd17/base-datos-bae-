@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Gestión de Aeropuertos 
+# Ejercicio Normalización 1: Gestión de Aeropuertos 
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/NORMALIZACION/tareas/tarea1/img/aena_logo.png" width="400px"/>
@@ -38,35 +38,44 @@ Se pide:
   1. Las claves candidatas son:
   - __Ciudad, CodAeropuerto__.
   - __Ciudad, NombreAeropuerto__.
+ 
+ <br/>
   
   2. No cumple la 1 forma normal dado que tiene __valores multivaluados__. Los campos __CodAeropuerto, NombreAeropuerto y distancia_km__ no son atómicos.
+ 
+  <br/>
   
-  3. - La relación es de tipo **N:N** si suponemos que una ciudad puede tener varios aeropuertos y que un aeropuerto puede estar en 
+  3. La relación es de tipo **N:N** si suponemos que una ciudad puede tener varios aeropuertos y que un aeropuerto puede estar en 
   varias ciudades.
 
   <div align="center">  
   
-  _**ciudad**_
-
-  <img src="" width="400px"/>
+_**Ciudad**_
+   
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea12/IMG/NMR1.drawio.png"/>
   </div>
 
 <div align="center">
+ 
+  <br/>
 
-_**ciudad_aeropuerto**_  
-  <img src="" width="300px"/>
+_**Ciudad_aeropuerto**_  
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea12/IMG/NMR2.drawio.png"/>
 </div>
 
 <div align="center">
+ 
+  <br/>
 
-_**aeropuerto**_  
-  <img src="" width="250px"/>
+_**Aeropuerto**_  
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea12/IMG/NMR3.drawio.png"/>
 </div>
+ 
+  <br/>
   
-  4. Determinantes sobre las tablas resultado del apartado 3. 
-  Se crean nuevas tablas reordenando los campos que los componen. Ver imágenes anteriores. 
+  4. Se crean nuevas tablas reordenando los campos que los componen. Ver imágenes anteriores. 
 
-  5.Indicar claves candidatas de todas las tablas resultantes.
+  5. Indicar claves candidatas de todas las tablas resultantes.
   - **ciudad**: ciudad.
   - **aeropuerto**: codAeropuerto.
   - **ciudad_aeropuerto**: codAeropuerto y ciudad.
