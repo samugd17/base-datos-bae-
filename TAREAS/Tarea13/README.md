@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Ejercicio NormalizaciGestión Escuela de Topografía de Madrid
+# Ejercicio Normalización 2: Gestión Escuela de Topografía de Madrid
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/NORMALIZACION/tareas/tarea2/img/topografia.png" width="400px"/>
