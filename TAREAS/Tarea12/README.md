@@ -77,8 +77,8 @@ _**Aeropuerto**_
 
   5. Indicar claves candidatas de todas las tablas resultantes.
   - **ciudad**: ciudad.
-  - **aeropuerto**: codAeropuerto.
   - **ciudad_aeropuerto**: codAeropuerto y ciudad.
+  - **aeropuerto**: codAeropuerto.
 
 </details>
 
