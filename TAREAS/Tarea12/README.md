@@ -35,18 +35,22 @@ Se pide:
   </br>
 
 
-  1. Claves candidatas:
-  - __Ciudad, CodAeropuerto__.
-  - __Ciudad, NombreAeropuerto__.
+  _**RESOLUCIÓN PASO 1:**_
+ 
+  - Ciudad, CodAeropuerto.
+  - Ciudad, NombreAeropuerto.
  
  <br/>
-  
-  2. No cumple la primera forma normal dado que tiene valores multivaluados. Los campos **CodAeropuerto, NombreAeropuerto y distancia_km** no son atómicos.
+ 
+  _**RESOLUCIÓN PASO 2:**_
+ 
+ No cumple la primera forma normal dado que tiene valores multivaluados. Los campos **CodAeropuerto, NombreAeropuerto y distancia_km** no son atómicos.
  
   <br/>
   
-  3. La relación es de tipo **N:N** si suponemos que una ciudad puede tener varios aeropuertos y que un aeropuerto puede estar en 
-  varias ciudades.
+  _**RESOLUCIÓN PASO 3:**_
+ 
+ La relación es de tipo **N:N** si suponemos que una ciudad puede tener varios aeropuertos y que un aeropuerto puede estar en varias ciudades.
 
   <div align="center">  
   
@@ -73,9 +77,14 @@ _**Aeropuerto**_
  
   <br/>
   
-  4. Se crean nuevas tablas reordenando los campos que los componen. Ver imágenes anteriores. 
+  _**RESOLUCIÓN PASO 4:**_ 
+ 
+ Se crean nuevas tablas reordenando los campos que los componen. Ver imágenes anteriores. 
 
-  5. Indicar claves candidatas de todas las tablas resultantes.
+  _**RESOLUCIÓN PASO 5:**_
+ 
+ Indicar claves candidatas de todas las tablas resultantes.
+ 
   - **ciudad**: ciudad.
   - **ciudad_aeropuerto**: codAeropuerto y ciudad.
   - **aeropuerto**: codAeropuerto.
