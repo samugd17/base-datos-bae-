@@ -11,11 +11,11 @@ La tabla creada tiene los siguientes campos
 - DNI varchar (20).
 - Apellidos varchar (255).
 - Nombre varchar (50).
-- Direccion varchar (255).
+- Dirección varchar (255).
 - Ciudad varchar (50).
 - Provincia varchar (50).
 - Comunidad varchar (50).
-- Codigo integer.
+- Código integer.
 - Asignatura varchar(50).
 - Nota double.
 
@@ -27,7 +27,7 @@ Además la información que se aporta es:
 - Codigo es el código de una asignatura (único). Asignatura es el nombre de la asignatura (único)
 - Asignatura es el nombre de la asignatura (único)
 - Nota es la nota que el alumno ha obtenido en la asignatura
-- Codigo, Asignatura y Nota se escriben en el mismo orden en los campos correspondientes
+- Código, Asignatura y Nota se escriben en el mismo orden en los campos correspondientes
 
 Ejemplo de datos de la tabla:
 
@@ -50,8 +50,8 @@ Se pide:
   
   - DNI, Asignatura. 
   - Apellidos, Nombre, Asignatura.
-  - DNI, Codigo.
-  - Apellidos, Nombre, Codigo.
+  - DNI, Código.
+  - Apellidos, Nombre, Código.
   
   _**RESOLUCIÓN PASO 2:**_
 
