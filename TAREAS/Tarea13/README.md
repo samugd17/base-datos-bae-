@@ -62,25 +62,30 @@ No cumple la primera forma normal porque los campos **Código, Asignatura y Nota
 
 <div align="center">
 
-__Alumno__
+_**Alumno**_
 
- <img src="" />
- </div>
-
-
- <div align="center">
-
- __Alumno-Asignatura__
-
- <img src="" />
+ <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea13/IMG/NMR1%20Alumno.drawio.png" />
  </div>
 
  <div align="center">
+ 
+ <br>
 
-__Asignatura__
+_**Asignatura**_
 
- <img src=""/>
+ <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea13/IMG/NMR2%20Asignatura.drawio.png"/>
  </div>
+ 
+ <br>
+
+ <div align="center">
+
+ _**Alumno-Asignatura**_
+
+ <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea13/IMG/EjercNMR3%20Alumno_Asignatura.drawio.png"/>
+ </div>
+ 
+ <br>
 
   _**RESOLUCIÓN PASO 4:**_
   
@@ -88,9 +93,9 @@ __Asignatura__
   
   _**RESOLUCIÓN PASO 5:**_
   
-  - Alumno: dni.
-  - Asignatura: código.
-  - Alumno-Asignatura: dni,código.
+  - Alumno: DNI.
+  - Asignatura: Código.
+  - Alumno-Asignatura: DNI,Código.
 
 
  </details>
