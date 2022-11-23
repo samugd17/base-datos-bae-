@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Gestión de INEM
+# Ejercicio de NormalizaciGestión de INEM
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/NORMALIZACION/tareas/tarea3/img/inem.png" width="400px"/>
