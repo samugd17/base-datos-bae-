@@ -30,7 +30,22 @@ Se pide:
 9. Genera el __diagrama E/R resultante__.
 
 <details>
-<summary>SOLUCIÓN<summary>
+<summary>SOLUCIÓN</summary>
+ 
+ ### _**Resolución paso 1:**_
+ - NSS.
+- Emails.
+ ### _**Resolución paso 2:**_
+ La primera forma normal no se cumple, ya que los valores del campo emails no son atómicos.
+ ### _**Resolución paso 3:**_
+ 
+ ### _**Resolución paso 4:**_
+ ### _**Resolución paso 5:**_
+ ### _**Resolución paso 6:**_
+ ### _**Resolución paso 7:**_
+ ### _**Resolución paso 8:**_
+ ### _**Resolución paso 9:**_
+ 
 </details>
 
 </div>
