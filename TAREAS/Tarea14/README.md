@@ -67,6 +67,7 @@ Se pide:
  </div>
  
  ### _**Resolución paso 6:**_
+ La tercera forma normal se cumple, ya que no existe transitividad entre los atributos que no est y la clave primaria NSS. 
  ### _**Resolución paso 7:**_
  ### _**Resolución paso 8:**_
  ### _**Resolución paso 9:**_
