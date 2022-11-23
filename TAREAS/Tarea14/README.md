@@ -37,10 +37,33 @@ Se pide:
 - Emails.
  ### _**Resolución paso 2:**_
  La primera forma normal no se cumple, ya que los valores del campo emails no son atómicos.
+ 
  ### _**Resolución paso 3:**_
  
+ <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea14/IMG/1FN.drawio.png">
+ 
  ### _**Resolución paso 4:**_
+ 
+ No se cumple la 2FN, ya que el atributo puesto y salario no depende funcionalmente de NSS, que en este caso es nuestra clave principal.
+ 
+ NSS $\rightarrow$ Nombre, puesto, email.
+ 
+ Puesto $\rightarrow$ Salario.
+ 
  ### _**Resolución paso 5:**_
+ 
+ <div align="center">
+  
+ _**Empleado-Trabajo**_
+  
+   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea14/IMG/ERMR-Empleado-Trabajo.drawio.png">
+ 
+ _**Empleado-Email**_
+  
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea14/IMG/ERMR-Empleado-Email.drawio.png">
+  
+ </div>
+ 
  ### _**Resolución paso 6:**_
  ### _**Resolución paso 7:**_
  ### _**Resolución paso 8:**_
