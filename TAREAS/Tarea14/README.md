@@ -1,6 +1,6 @@
 <div align="justify">
 
-# Ejercicio de NormalizaciGestión de INEM
+# Ejercicio de Normalización 3: Gestión de INEM
 
 <div align="center">
 <img src="https://github.com/jpexposito/base-datos/raw/main/NORMALIZACION/tareas/tarea3/img/inem.png" width="400px"/>
@@ -29,8 +29,8 @@ Se pide:
 8. Indicar claves candidatas de todas las tablas resultantes.
 9. Genera el __diagrama E/R resultante__.
  
- ### _**Resolución paso 1:**_
- - NSS.
+### _**Resolución paso 1:**_
+- NSS.
 - Emails.
  ### _**Resolución paso 2:**_
  La primera forma normal no se cumple, ya que los valores del campo emails no son atómicos.
@@ -48,28 +48,25 @@ Se pide:
  Puesto $\rightarrow$ Salario.
  
  ### _**Resolución paso 5:**_
+  
+ - _**Empleado-Trabajo**_
  
- <div align="center">
-  
- _**Empleado-Trabajo**_
-  
    <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea14/IMG/ERMR-Empleado-Trabajo.drawio.png">
  
  <br>
  <br>
-  <br>
  <br>
- 
- _**Empleado-Email**_
+ <br>
+  
+ - _**Empleado-Email**_
   
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea14/IMG/ERMR-Empleado-Email.drawio.png">
   
- </div>
+
  
  ### _**Resolución paso 6:**_
- La tercera forma normal se cumple, ya que no existe transitividad entre los atributos que no est y la clave primaria NSS. 
- ### _**Resolución paso 7:**_
- ### _**Resolución paso 8:**_
- ### _**Resolución paso 9:**_
+ La tercera forma normal se cumple, ya que no existe transitividad entre los atributos que no están incluidos en la clave primaria y la clave primaria NSS. 
+
+ _**No seguimos con los pasos ya que la tercera forma normal se ha cumplido**_
 
 </div>
