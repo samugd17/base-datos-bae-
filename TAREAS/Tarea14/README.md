@@ -28,9 +28,6 @@ Se pide:
 7. Normalizar si no se cumple el apartado 5.
 8. Indicar claves candidatas de todas las tablas resultantes.
 9. Genera el __diagrama E/R resultante__.
-
-<details>
-<summary>SOLUCIÓN</summary>
  
  ### _**Resolución paso 1:**_
  - NSS.
@@ -58,6 +55,11 @@ Se pide:
   
    <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea14/IMG/ERMR-Empleado-Trabajo.drawio.png">
  
+ <br>
+ <br>
+  <br>
+ <br>
+ 
  _**Empleado-Email**_
   
   <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea14/IMG/ERMR-Empleado-Email.drawio.png">
@@ -68,7 +70,5 @@ Se pide:
  ### _**Resolución paso 7:**_
  ### _**Resolución paso 8:**_
  ### _**Resolución paso 9:**_
- 
-</details>
 
 </div>
