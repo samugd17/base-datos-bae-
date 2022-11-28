@@ -21,17 +21,38 @@ La representación de la información dentro de la BBDD es la siguiente:
 
 Se pide:
 
-1. Comprobar si se cumple la 1ª Forma Normal.
+_**1. Comprobar si se cumple la 1ª Forma Normal.**_
 
 La primera forma normal no se cumple ya que dentro del apartado autor hay atributos multivaluados.
 
-2. Normalizar si no se cumple el apartado 2.
+_**2. Normalizar si no se cumple el apartado 2.**_
 
 <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea15/IMG/NMR1.drawio.png"/>
 
-3. Comprobar si se cumple la 2ª Forma Normal.
-4. Normalizar si no se cumple el apartado 4.
-5. Comprobar si se cumple la 3ª Forma Normal.
-6. Normalizar si no se cumple el apartado 5.
-7. Indicar claves de todas las tablas resultantes.
-9. Genera el __diagrama E/R resultante__.
+_**3. Comprobar si se cumple la 2ª Forma Normal.**_
+ 
+ No se cumple la 2FN, ya que los atributos NombreLector y FechaDev no depende funcionalmente de CodLibro, que en este caso es nuestra clave principal.
+ 
+ CodLibro $\rightarrow$ Título, Autor, Editorial
+ 
+ NombreLector $\rightarrow$ FechaDev
+ 
+_**4. Normalizar si no se cumple el apartado 4.**_
+ 
+ <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea15/IMG/NMR2(Libro-leer-lector).drawio.png"/>
+ 
+ <br>
+ <br>
+ <br>
+ 
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea15/IMG/NMR2(Libro-tiene-autor).drawio.png"/>
+ 
+ 
+ 
+_**5. Comprobar si se cumple la 3ª Forma Normal.**_
+ 
+_**6. Normalizar si no se cumple el apartado 5.**_
+ 
+_**7. Indicar claves de todas las tablas resultantes.**_
+ 
+_**9. Genera el __diagrama E/R resultante__.**_
