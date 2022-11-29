@@ -23,7 +23,7 @@ Se pide:
 
 _**1. Comprobar si se cumple la 1ª Forma Normal.**_
 
-La primera forma normal no se cumple ya que dentro del apartado autor hay atributos multivaluados.
+La primera forma normal no se cumple ya que los apartados autor y lector no son valores at
 
 _**2. Normalizar si no se cumple el apartado 2.**_
 
