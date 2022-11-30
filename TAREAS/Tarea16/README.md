@@ -47,10 +47,12 @@ _**4. Normalizar si no se cumple el apartado 4.**_
 _**5. Comprobar si se cumple la 3ª Forma Normal.**_
 
 Una Relación está en 3FN sólo si está en 2FN y no existen dependencias transitivas. Todas las dependencias funcionales deben ser respecto a la clave principal. Por tanto, la 3FN no se cumple en este caso, ya que existe transitividad en los siguientes casos:
+  
+ _Id_Orden_ $\rightarrow$ _fecha_ $\rightarrow$ _cant_.
 
-_Id_cliente_ $\rightarrow$ _nom_cliente_ $\rightarrow$ _ciudad_
+_Id_cliente_ $\rightarrow$ _nom_cliente_ $\rightarrow$ _ciudad_.
 
-_Num_art_ $\rightarrow$ _nom_art_ $\rightarrow$ _cantidad_ $\rightarrow$ _precio._
+_Num_art_ $\rightarrow$ _nom_art_ $\rightarrow$ _precio._
  
   
 _**6. Normalizar si no se cumple el apartado 5.**_
