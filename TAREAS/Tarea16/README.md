@@ -26,11 +26,26 @@ __(Tabla) Orden__
 
 Se pide:
 
-1. Comprobar si se cumple la 1ª Forma Normal.
-2. Normalizar si no se cumple el apartado 2.
-3. Comprobar si se cumple la 2ª Forma Normal.
-4. Normalizar si no se cumple el apartado 4.
-5. Comprobar si se cumple la 3ª Forma Normal.
-6. Normalizar si no se cumple el apartado 5.
-7. Indicar claves de todas las tablas resultantes.
-9. Genera el __diagrama E/R resultante__.
+_**1. Comprobar si se cumple la 1ª Forma Normal.**_
+  
+La primera forma normal se cumple ya que todos los valores en la tabla son atómicos.
+  
+_**2. Normalizar si no se cumple el apartado 2.**_
+  
+  
+_**3. Comprobar si se cumple la 2ª Forma Normal.**_
+  
+  
+_**4. Normalizar si no se cumple el apartado 4.**_
+  
+  
+_**5. Comprobar si se cumple la 3ª Forma Normal.**_
+  
+  
+_**6. Normalizar si no se cumple el apartado 5.**_
+  
+  
+_**7. Indicar claves de todas las tablas resultantes.**_
+  
+  
+_**9. Genera el __diagrama E/R resultante__.**_
