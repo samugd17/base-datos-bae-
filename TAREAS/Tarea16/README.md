@@ -34,13 +34,24 @@ _**2. Normalizar si no se cumple el apartado 2.**_
   
   
 _**3. Comprobar si se cumple la 2ª Forma Normal.**_
-  
+
+La 2FN se cumple si utilizamos como clave principal el conjunto de de atributos: 
+
+_Id_orden, Id_cliente y Num_art_$\rightarrow$ _Fecha, nom_cliente, ciudad, nom_art, cant y precio._
+
+De esta forma, todos los atributos que NO forman parte de la Clave Principal tienen dependencia funcional completa de ella.
   
 _**4. Normalizar si no se cumple el apartado 4.**_
   
   
 _**5. Comprobar si se cumple la 3ª Forma Normal.**_
-  
+
+Una Relación está en 3FN sólo si está en 2FN y no existen dependencias transitivas. Todas las dependencias funcionales deben ser respecto a la clave principal. Por tanto, la 3FN no se cumple en este caso, ya que existe transitividad en los siguientes casos:
+
+_Id_cliente_ $\rightarrow$ _nom_cliente_ $\rightarrow$ _ciudad_
+
+_Num_art_ $\rightarrow$ _nom_art_ $\rightarrow$ _cantidad_ $\rightarrow$ _precio._
+ 
   
 _**6. Normalizar si no se cumple el apartado 5.**_
   
