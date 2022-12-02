@@ -28,7 +28,7 @@ Se pide:
 
 _**1. Comprobar si se cumple la 1ª Forma Normal.**_
   
-La primera forma normal se cumple ya que todos los valores en la tabla son atómicos.
+La primera forma normal no se cumple ya que la clave principal está repetida.
   
 _**2. Normalizar si no se cumple el apartado 2.**_
   
