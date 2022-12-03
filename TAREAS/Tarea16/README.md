@@ -32,27 +32,31 @@ La primera forma normal no se cumple ya que la clave principal está repetida.
   
 _**2. Normalizar si no se cumple el apartado 2.**_
   
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea16/IMG/1FN.drawio.png">
   
 _**3. Comprobar si se cumple la 2ª Forma Normal.**_
 
-La 2FN se cumple si utilizamos como clave principal el conjunto de de atributos: 
-
-_Id_orden, Id_cliente y Num_art_$\rightarrow$ _Fecha, nom_cliente, ciudad, nom_art, cant y precio._
-
-De esta forma, todos los atributos que NO forman parte de la Clave Principal tienen dependencia funcional completa de ella.
+Una Relación está en 2FN si y sólo si está en 1FN y todos los atributos que NO forman parte de la Clave Principal tienen dependencia funcional completa de ella.
+ 
+En este caso, al pasar a primera forma normal extrayendo el atributo de cantidad y convirtiéndolo en una nueva tabla, si que se cumple este apartado tal y como mostramos a continuación.
   
 _**4. Normalizar si no se cumple el apartado 4.**_
   
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea16/IMG/2.FN.drawio.png"> 
+  <br>
+  <br>
   
 _**5. Comprobar si se cumple la 3ª Forma Normal.**_
 
-Una Relación está en 3FN sólo si está en 2FN y no existen dependencias transitivas. Todas las dependencias funcionales deben ser respecto a la clave principal. Por tanto, la 3FN no se cumple en este caso, ya que existe transitividad en los siguientes casos:
+Una Relación está en 3FN sólo si está en 2FN y no existen dependencias transitivas. Todas las dependencias funcionales deben ser respecto a la clave principal. Por tanto, la 3FN se cumple en este caso, ya que existe no existe transitividad en ningún caso.
   
- _Id_Orden_ $\rightarrow$ _fecha_ $\rightarrow$ _cant_.
+ _Id_Orden_ $\rightarrow$ _fecha_
 
 _Id_cliente_ $\rightarrow$ _nom_cliente_ $\rightarrow$ _ciudad_.
 
 _Num_art_ $\rightarrow$ _nom_art_ $\rightarrow$ _precio._
+  
+_Pedido-Compuesto-Artículo_ $\rightarrow$ _Id_Orden_, _Num_art_, _cant_.
  
   
 _**6. Normalizar si no se cumple el apartado 5.**_
@@ -60,5 +64,15 @@ _**6. Normalizar si no se cumple el apartado 5.**_
   
 _**7. Indicar claves de todas las tablas resultantes.**_
   
+**Pedido:** Id_Orden.
+
+**Cliente:** Id_cliente.
+
+**Artículo:** Num_art.
   
-_**9. Genera el __diagrama E/R resultante__.**_
+**Pedido-Compuesto-Artículo:** Id_Orden, Num_art.
+  
+  
+_**9. Genera el diagrama E/R resultante**_.
+  
+  <img src="https://github.com/samugd17/base-datos-bae-/blob/main/TAREAS/Tarea16/IMG/ER.drawio.png">
