@@ -27,7 +27,7 @@ Se pide:
 
 1. Comprobar si se cumple la 1ª Forma Normal.
 
-La 1FN afirma que una relación está en 1FN si y sólo si cada atributo es atómico. En este caso, nuestra primary key _Código_ se repite. Por tanto, en esta tabla no se cumple la 1FN.
+La 1FN afirma que una relación está en 1FN si y sólo si cada atributo es atómico. En este caso, nuestra primary key _Código_ se repite. Además, los atributos villanos y ratings no son atómicos. Por tanto, en esta tabla no se cumple la 1FN.
 
 2. Normalizar si no se cumple el apartado 2.
 3. Comprobar si se cumple la 2ª Forma Normal.
